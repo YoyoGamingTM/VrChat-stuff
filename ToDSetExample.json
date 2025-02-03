@@ -1,0 +1,19 @@
+{
+    "DeckName": "Amazing deck",
+
+    "DeckBy": "YoyoTM",
+
+    "Truths": [
+        "What is your favorite VRC game Map?",
+        "What is your opinion of <player>?",
+        "Do you know more than <range[1-5]> people here?",
+        "Tell <player> <range[1-10]> facts about youself.",
+        "<local>, who do you like here the most?"
+    ],
+    "Dares": [
+        "Mute yourself until next turn.",
+        "Sit next to <player>.",
+        "Eat <range[1-10]> goldfish.",
+        "Let <player> slap you <range[1-5]> times."
+    ]
+}
